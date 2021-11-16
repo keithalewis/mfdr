@@ -12,7 +12,7 @@ B-S/M theory shows how to set up the initial hedge but does not address
 the very first problem after that: when should the hedge be adjusted? It
 is not possible to hedge "continuously". Given this reality, how does
 one measure how well a hedge is performing (risk-management)? The
-martingale representation theorem can be use to prove the B-S/M hedge,
+martingale representation theorem can be used to prove the B-S/M hedge,
 assuming prices are geometric Brownian motion, is perfect.
 This is of little use to market practitioners dealing with timing and
 market liquidity issues.
